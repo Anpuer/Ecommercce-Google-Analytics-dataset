@@ -22,4 +22,8 @@ Use SQL in Google BigQuery against the Google Analytics data set to write and ex
 
 **Query Result** 
 
-![image](https://github.com/Anpuer/Ecommerce-Google-Analytics-dataset/assets/144112015/cb22857d-4439-431d-9e1b-3f1e9c541c46)
+![image](https://github.com/Anpuer/Ecommerce-Google-Analytics-dataset/assets/144112015/413ea46e-2a21-4862-b149-a4afab91f771)
+
+### Query 02: Bounce rate per traffic source in July 2017 (Bounce_rate = num_bounce/total_visit) (order by total_visit DESC)
+**SQL Code** 
+
